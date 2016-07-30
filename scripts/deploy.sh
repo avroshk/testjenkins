@@ -10,4 +10,4 @@
 
 #Compress curriculum
 # zip -r -X dist/serverstuff.zip serverstuff
-ls -la
+ls -la #test
